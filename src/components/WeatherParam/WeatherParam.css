@@ -1,0 +1,17 @@
+.WeatherParam {
+    overflow: hidden;
+    font-family: 'Chilanka', cursive;
+    box-sizing: border-box;
+    padding: 30px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    cursor: pointer;
+    text-decoration: none;
+    width: 165px;
+    display: flex;
+    margin: 10px 10% 75px;
+}
+
+.WeatherParam:hover {
+    background-color: lightgreen;
+}

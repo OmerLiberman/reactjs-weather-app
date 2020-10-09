@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+button {
+  height: 40px;
+  width: 150px;
+  padding: 10px 10px 10px;
+  color: black;
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+  background-color: aquamarine;
+  font-family: 'Sansita Swashed', cursive;;
+}
+button:hover {
+  height: 80px;
+  width: 200px;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 16px;
+  background-color: lightgreen;
+}
